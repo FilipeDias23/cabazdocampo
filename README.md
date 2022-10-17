@@ -1,6 +1,6 @@
 # README
 
-Cabaz do campo = Basket of field 
+Cabaz do campo = Basket of field. 
 It's a small business who sells individual agricultural products or Baskets of those products upon availability. 
 The user can Book them and send a message so the owner can deliver .
 
