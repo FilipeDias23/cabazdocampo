@@ -1,18 +1,17 @@
 # README
 
-Cabaz do campo = Basket of field. 
-It's a small business who sells individual agricultural products or Baskets of those products upon availability. 
+Cabaz do campo = Basket of field. It's a small business who sells individual agricultural products or Baskets of those products upon availability. 
 The user can Book them and send a message so the owner can deliver .
 
 * Ruby version
-rails 7.0.4
+ -rails 7.0.4
 
 * System dependencies
 
 * Configuration
 
 * Database creation
-PostgreSQL
+  -PostgreSQL
 
 * Database initialization
 
@@ -21,5 +20,5 @@ PostgreSQL
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment 
-  heroku
+  -heroku
 * ...
