@@ -1,6 +1,6 @@
-class CreateCabazs < ActiveRecord::Migration[7.0]
+class CreateBaskets < ActiveRecord::Migration[7.0]
   def change
-    create_table :cabazs do |t|
+    create_table :baskets do |t|
       t.string :name
       t.integer :price
       t.integer :quantity

@@ -1,6 +1,6 @@
 require "test_helper"
 
-class CabazTest < ActiveSupport::TestCase
+class BasketTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
