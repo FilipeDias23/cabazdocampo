@@ -1,17 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Cabaz do campo = Basket of field 
+It's a small business who sells individual agricultural products or Baskets of those products upon availability. 
+The user can Book them and send a message so the owner can deliver .
 
 * Ruby version
+rails 7.0.4
 
 * System dependencies
 
 * Configuration
 
 * Database creation
+PostgreSQL
 
 * Database initialization
 
@@ -19,6 +20,6 @@ Things you may want to cover:
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
+* Deployment 
+  heroku
 * ...
