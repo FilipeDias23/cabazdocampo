@@ -1,2 +1,6 @@
 <h1>test</h1>
-<li><%= @allProducts %></li>
+<ul>
+  <% @allProducts.each do |product| %>
+    <li><%= product.name %></li>
+  <% end %>
+</ul>
